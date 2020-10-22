@@ -1,0 +1,11 @@
+.calendar caption span {
+  margin: 0 0.5rem;
+}
+
+.calendar td {
+  text-align: center;
+}
+
+.calendar td.todays-date {
+  background-color: rgba(0, 0, 0, 0.1);
+}
